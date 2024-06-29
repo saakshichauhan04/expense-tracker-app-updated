@@ -53,7 +53,7 @@ The Expense Tracker is a web-based application designed to assist users in track
 
 ## Getting Started
 
-To run the Blood Depot locally, follow these steps:
+To run the Expense Tracker locally, follow these steps:
 
 1. Clone the repository.
 2. Install dependencies using `npm install`.
